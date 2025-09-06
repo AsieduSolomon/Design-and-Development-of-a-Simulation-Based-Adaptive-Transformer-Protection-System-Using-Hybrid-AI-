@@ -1,0 +1,2 @@
+# Design-and-Development-of-a-Simulation-Based-Adaptive-Transformer-Protection-System-Using-Hybrid-AI-
+Each dataset contains 1000 samples with the following columns: - **Features**: `voltage`, `current`, `temperature`, `oil_level`, `vibration`, `power_factor`, `frequency`, `harmonics`, `load_factor` - **Target**: `fault_type` (0: Normal, 1: Overvoltage, 2: Undervoltage, 3: Overcurrent, 4: Overheating and etc
